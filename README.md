@@ -92,13 +92,13 @@ You can fine-tune the model using a dataset of Pokémon descriptions. The notebo
 The notebook includes code to evaluate the performance of the Pokémon identifier. After running the notebook, you will be able to see the accuracy of the model and how well it can classify Pokémon based on their descriptions.
 
 ### Training loss
-![Training_loss](./images/training_loss)
+![Training_loss](./images/training_loss.png)
 
 ### Inference with new fine-tuned model
 - **Query**
-  ![Query](./images/query)
+  ![Query](./images/query.png)
 - **Response**
-  ![Response](./images/response)
+  ![Response](./images/response.png)
 
 ## Further Improvements
 
